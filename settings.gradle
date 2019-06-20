@@ -1,0 +1,6 @@
+rootProject.name = 'sso-parent'
+include 'sso-login'
+include 'sso-vip'
+include 'sso-main'
+include 'sso-cart'
+
